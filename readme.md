@@ -7,6 +7,6 @@ The MAKE Bench
 What's inside
 -------------
 
-The folder `cut-sheets/` includes all CAD files used for the fabrication of the prototype at Cohabitat MAKE 2013. This was millde from 18mm plywood and 18mm MFP using a 6mm cutter.
+The folder `cut-sheets/` includes all CAD files used for the fabrication of the prototype at Cohabitat MAKE 2013. It was milled from 18mm plywood and 18mm MFP boards (see filenames) using a 6mm cutter.
 
 All files used to generate those are also available. Please open an issue if you need them.
