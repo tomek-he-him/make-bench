@@ -1,6 +1,7 @@
 The MAKE Bench
 ==========
 > 100% wood :: human-made :: open-source
+> 
 > (CC-BY-SA) Tomasz Wiszniewski 2013
 
 What's inside
